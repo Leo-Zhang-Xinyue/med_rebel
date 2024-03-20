@@ -1,7 +1,7 @@
 <!-- PROJECT HEADING -->
 <br />
 
-<h1 align="center">EndoGen</h1>
+<h1 align="center">MED_REBEL</h1>
 <p align="center">
 Pre-train REBEL model on medical text
 <br />
